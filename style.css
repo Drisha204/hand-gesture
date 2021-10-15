@@ -1,0 +1,41 @@
+body
+{
+  color: bisque;
+  background: #4705ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result1 ,#result2
+{
+  color: black;
+}
+.emotionname
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.drisha
+{
+  font-size:18px; 
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size:18px; 
+  border-radius: 10px;
+  color: blueviolet;
+  background-color: coral;
+padding: 6px;
+}
